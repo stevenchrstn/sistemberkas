@@ -1,0 +1,74 @@
+[2026-11-17 00:47:26] Login sebagai OWNER
+[2026-11-17 00:47:29] Folder berhasil di-mount
+[2026-11-17 00:47:45] File tatang.txt dibuat atau diubah di PUBLIC
+[2026-11-17 00:50:42] File tatang.txt di-backup dari PUBLIC
+[2026-11-17 00:51:27] File tatang.txt di-restore ke PUBLIC
+[2026-11-17 00:52:23] File tatang.txt dihapus dari PUBLIC
+[2026-11-17 23:02:50] Login sebagai OWNER
+[2026-11-17 23:02:53] Folder berhasil di-mount
+[2026-11-17 23:03:00] Logout dari akun OWNER
+[2026-11-17 23:12:22] Login sebagai OWNER
+[2026-11-17 23:12:23] Folder berhasil di-mount
+[2026-11-17 23:12:34] File tatang.txt di-restore ke PUBLIC
+[2026-11-17 23:16:53] Logout dari akun OWNER
+[2026-11-17 23:17:02] Login sebagai ANGGOTA
+[2026-11-17 23:17:08] Folder berhasil di-mount
+[2026-11-17 23:19:00] File bebas.txt dibuat atau diubah di DATA_ANGGOTA
+[2026-11-17 23:20:31] Logout dari akun ANGGOTA
+[2026-11-17 23:20:39] Login sebagai TAMU
+[2026-11-17 23:20:44] Folder berhasil di-mount
+[2026-11-17 23:23:58] Login sebagai OWNER
+[2026-11-17 23:23:59] Folder berhasil di-mount
+[2026-11-19 10:59:54] Login sebagai OWNER
+[2026-11-19 10:59:56] Folder berhasil di-mount
+[2026-11-19 11:00:23] File tatang.txt dihapus dari PUBLIC
+[2026-11-19 11:17:48] Login sebagai OWNER
+[2026-11-19 11:17:58] Folder berhasil di-mount
+[2026-11-19 11:22:54] Login sebagai OWNER
+[2026-11-19 11:22:58] Folder berhasil di-mount
+[2026-11-19 11:23:02] Folder berhasil di-unmount
+[2026-11-19 12:28:56] Login sebagai OWNER
+[2026-11-19 12:29:18] Folder berhasil di-mount
+[2026-11-19 12:31:27] Login sebagai OWNER
+[2026-11-19 12:31:29] Folder berhasil di-mount
+[2026-11-19 12:34:56] Login sebagai OWNER
+[2026-11-19 12:34:59] Logout dari akun OWNER
+[2026-11-19 12:38:20] Login sebagai OWNER
+[2026-11-19 12:45:18] Login sebagai OWNER
+[2026-11-19 21:39:53] Login sebagai OWNER
+[2026-11-19 21:40:08] Folder berhasil di-mount
+[2026-11-19 21:40:51] File tatang.txt di-restore ke PUBLIC
+[2026-11-19 21:41:36] File tatang.txt dihapus dari PUBLIC
+[2026-11-19 21:44:04] Login sebagai OWNER
+[2026-11-19 21:44:06] Folder berhasil di-mount
+[2026-11-19 21:45:18] File pengumuman.txt dibuat atau diubah di PUBLIC
+[2026-11-19 21:46:18] File pengumuman.txt dibuat atau diubah di PUBLIC
+[2026-11-19 21:48:34] File angggaran.txt dibuat atau diubah di DATA_RAHASIA
+[2026-11-19 21:48:50] Logout dari akun OWNER
+[2026-11-19 21:48:58] Login sebagai ANGGOTA
+[2026-11-19 21:48:59] Folder berhasil di-mount
+[2026-11-19 21:51:02] File tugas.txt dibuat atau diubah di DATA_ANGGOTA
+[2026-11-19 21:53:29] Logout dari akun ANGGOTA
+[2026-11-19 21:53:34] Login sebagai TAMU
+[2026-11-19 21:53:44] Folder berhasil di-mount
+[2026-11-19 22:15:58] Login sebagai OWNER
+[2026-11-19 22:16:00] Folder berhasil di-mount
+[2026-11-19 22:16:28] Full Backup berhasil dilakukan oleh Owner
+[2026-11-19 22:18:42] File anggaran.txt dibuat atau diubah di DATA_RAHASIA
+[2026-11-19 22:37:40] Login sebagai OWNER
+[2026-11-19 22:41:30] Folder berhasil di-mount
+[2026-11-19 22:42:13] File anggran.txt dibuat atau diubah di DATA_RAHASIA
+[2026-11-19 22:50:13] Login sebagai OWNER
+[2026-11-19 22:50:14] Folder berhasil di-mount
+[2026-11-19 22:50:47] File anggaran.txt dibuat atau diubah di DATA_RAHASIA
+[2026-11-19 22:50:54] Full Backup berhasil dilakukan oleh Owner
+[2026-11-19 22:52:16] File anggaran.txt dibuat atau diubah di DATA_RAHASIA
+[2026-11-19 22:54:46] Full Restore berhasil dari 20261119_225054_839729
+[2026-11-19 23:01:10] Folder berhasil di-unmount
+[2026-11-19 23:01:57] Logout dari akun OWNER
+[2026-11-19 23:02:12] Login sebagai TAMU
+[2026-11-19 23:02:23] Folder berhasil di-mount
+[2026-11-19 23:04:10] Logout dari akun TAMU
+[2026-11-19 23:04:15] Login sebagai ANGGOTA
+[2026-11-19 23:04:16] Folder berhasil di-mount
+[2026-11-19 23:04:55] File tugas.txt dibuat atau diubah di DATA_ANGGOTA
